@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hus98ain
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Android Kotlin
-- 💞️ I’m looking to collaborate on ...
+Hi, I am Hussain graduate of Information Technology from B.Z.U Pakistan. 
+I'm an Android App Developer. I have 2 year+ of experience in Android Development with JAVA and KOTLIN. 
+Since my start, I have worked over many Android development projects for many clients and produced high-quality work. 
+If you have any further queries you can inbox me anytime. Thank you
 - 📫 How to reach me 
 - hus98ain@gmai.com
 - fiverr.com/pro_hussain
