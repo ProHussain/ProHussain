@@ -49,6 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prohussain&show_icons=true&locale=en&layout=compact" alt="prohussain" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prohussain&show_icons=true&locale=en" alt="prohussain" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api?username=prohussain&show_icons=true&locale=en" alt="prohussain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prohussain&" alt="prohussain" /></p>
