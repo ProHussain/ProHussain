@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
-- 📫 How to reach me **hussain@hashmac.com**
+- 📫 How to reach me **+92 301 690 7146**
 
 - 📄 Know about my experiences [https://linkedin.com/in/hus98ain/](https://linkedin.com/in/hus98ain/)
 
