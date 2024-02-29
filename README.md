@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **+92 301 690 7146**
 
-- 📄 Know about my experiences [https://linkedin.com/in/hus98ain/](https://linkedin.com/in/prohussainn/)
+- 📄 Know about my experiences [Likedin](https://linkedin.com/in/prohussainn/)
 
 - ⚡ Fun fact **I think I'm too introvert**
 
