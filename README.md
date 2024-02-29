@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/pro_hussainn" target="blank"><img src="https://img.shields.io/twitter/follow/pro_hussainn?logo=twitter&style=for-the-badge" alt="pro_hussainn" /></a> </p>
 
-- 🔭 I’m currently working on [Islam 360](https://play.google.com/store/apps/details?id=com.hashmac.islam360)
+- 🔭 I’m currently working on [All Languages Translator App](https://play.google.com/store/apps/details?id=all.languages.translator.phototranslator.voicetranslator)
 
 - 🌱 I’m currently learning **Android, Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://hashmac.com](https://hashmac.com)
-
-- 📝 I regularly write articles on [https://blog.hashmac.com](https://blog.hashmac.com)
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
 - 📫 How to reach me **+92 301 690 7146**
 
-- 📄 Know about my experiences [https://linkedin.com/in/hus98ain/](https://linkedin.com/in/hus98ain/)
+- 📄 Know about my experiences [https://linkedin.com/in/hus98ain/](https://linkedin.com/in/prohussainn/)
 
 - ⚡ Fun fact **I think I'm too introvert**
 
